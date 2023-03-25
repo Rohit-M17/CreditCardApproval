@@ -1,6 +1,4 @@
 # CreditCardApprovalAnalysis
-# final-project-d8ta
-
 # D8TA Final Project - Credit Card Approval
 
 The goal of this project is to ensure data privacy and fairness for the credit card dataset. We aim to remove any unfair discrimination in the credit card approval process and promote Fair Equality of Opportunity (FEO).
