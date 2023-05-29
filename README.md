@@ -15,6 +15,7 @@ The goal of this project is to ensure data privacy and fairness for the credit c
 The data used for this project is the Credit Card Approval dataset from Kaggle https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction. It contains 438558 credit card user's entries and 14 attributes, including personal and financial information about credit card applicants.
 ## Exploratory Data Analysis
 Exploratory data analysis (EDA) is a pivotal step in data analysis that helps prevent downstream issues. We conducted EDA on the Credit Card Approval dataset to identify patterns and relationships between variables, detect outliers, and check for missing data. This allowed us to gain a better understanding of the data and make informed decisions about how to preprocess and engineer features.
+
 ![4](https://user-images.githubusercontent.com/59380765/227697845-45c29464-2768-4d77-8d8f-493acd133e28.png)
 ![1](https://user-images.githubusercontent.com/59380765/227697847-a3fea62d-31a1-4b53-b27f-89e17a5a764c.png)
 ![2](https://user-images.githubusercontent.com/59380765/227697848-96757b47-c442-4858-ae18-c1d87110717c.png)
